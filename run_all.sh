@@ -19,3 +19,6 @@ echo "solve Sparse Bilinear Logistic Regression on MNIST"
 cd SparseBilinearLogisticRegression_mnist
 ./run_SparseBilinearLogisticRegression_mnist.sh
 cd ..
+
+
+
