@@ -118,7 +118,7 @@ plt.xlabel('#workers', fontsize=label_font)
 
 
 savename = 'allcnn_cifar10'
-plt.savefig(savename+'.pdf', bbox_inches='tight', format='pdf')
+plt.savefig(savename+'.png', bbox_inches='tight', format='png') 
 
 #plt.show()
 
