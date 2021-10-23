@@ -19,7 +19,7 @@ max_rows=77
 
 name11 = dir+'results_cpu_mnist_mpi_Bilinear_r_5_lam0.001_inertial_sync_epochs'+str(epochs)+'_SIZE_'+str(SIZE)+'_bacthsize'+str(batchsize)+'_param_type_const_alpha'+str(alpha)+'_beta';
 name2 = '_bacthsize'+str(batchsize)+'_param_type_const'+'_alpha'+str(alpha)+'_beta'+str(beta)+'.txt'
-savename = 'SparseBilinearLogisticRegression_Mnist' 
+savename = 'SparseBilinearLogisticRegression_mnist' 
  
 name12 = '.txt'  
 file_name = name11+str(0.9)+name12
