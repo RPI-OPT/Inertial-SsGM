@@ -40,6 +40,7 @@ On Ubuntu Linux 16.04, Dual Intel Xeon Gold 6130 3.7GHz, 32 CPU cores.
 
 ![plot](./PhaseRetrieval/PhaseRetrieval_m50000_d20000.pdf?raw=true "title")
 
+![stack Overflow](http://lmsotfy.com/so.png)
 
 ## Reference  
 
