@@ -1,0 +1,4 @@
+epoch	 test_loss	 test_acc	 train_loss	 train_acc 	 time_since_begin(without testing)
+process 0: Training time 41.286421060562134 seconds (with 5 workers)
+process 0: total time 41.286421060562134 seconds (with 5 workers)
+
