@@ -38,7 +38,7 @@ Besides the four folders, the repository includes:
 
 On Ubuntu Linux 16.04, Dual Intel Xeon Gold 6130 3.7GHz, 32 CPU cores. 
 
-![alt text](./PhaseRetrieval/PhaseRetrieval_m50000_d20000.pdf?raw=true "title")
+![plot](./PhaseRetrieval/PhaseRetrieval_m50000_d20000.pdf?raw=true "title")
 
 
 ## Reference  
