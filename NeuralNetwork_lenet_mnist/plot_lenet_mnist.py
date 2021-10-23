@@ -198,8 +198,7 @@ plt.xlabel('#workers', fontsize=label_font)
 # plt.title('compare') 
 
 savename = 'lenet_mnist'
-plt.savefig(savename+'.pdf', bbox_inches='tight', format='pdf')
-
+plt.savefig(savename+'.png', bbox_inches='tight', format='png') 
 #plt.show()
 
 
