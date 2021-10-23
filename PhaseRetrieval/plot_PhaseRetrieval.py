@@ -131,5 +131,4 @@ plt.ylabel('times (sec)',fontsize=label_font)
 plt.xlabel('#workers',fontsize=label_font)
  
 savename = 'PhaseRetrieval'+'_m'+str(m)+'_d'+str(d)
-plt.savefig('./'+savename+'.pdf',bbox_inches='tight',format='pdf')
- 
+plt.savefig('./'+savename+'.png',bbox_inches='tight',format='png') 
