@@ -1,6 +1,6 @@
 # Inertial-SsGM
 
-This repository is the implementations of the paper: Distributed stochastic inertial methods with delayed derivatives [(Xu et al. 2021)](#xu2021distributed).
+This repository is the implementations of the paper: Distributed stochastic inertial-accelerated methods with delayed derivatives for nonconvex problems [(Xu et al. 2021)](#xu2021distributed).
 
 <!-- ## Table of Contents
 - [Security](#security)
@@ -71,4 +71,4 @@ Right: running time (in second) of the sync-parallel and async-parallel implemen
 
 ## Reference  
 
-- <a name="xu2021distributed"></a>Yangyang Xu, Yibo Xu, Yonggui Yan, and Jie Chen. [Distributed stochastic inertial methods with delayed derivatives](https://arxiv.org/abs/2107.11513). Preprint arXiv:2107.11513, 2021.
+- <a name="xu2021distributed"></a>Yangyang Xu, Yibo Xu, Yonggui Yan, and Jie Chen. [Distributed stochastic inertial-accelerated methods with delayed derivatives for nonconvex problems](https://arxiv.org/abs/2107.11513). Preprint arXiv:2107.11513, 2021.
